@@ -1,0 +1,32 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+
+# Eclipse
+/test/mq-server/JmsLoader/export/FFDC
+/test/mq-server/JmsLoader/.classpath
+/test/mq-server/JmsLoader/.project
+/test/mq-server/JmsLoader/.settings
+/test/mq-server/JmsLoader/bin/com/kainos/bda/*.class
+
+
+# Compiled python modules.
+*.pyc
+
+
+#keytab files
+*.keytab
+
+# Python egg metadata, regenerated from source files by setuptools.
+*.egg-info
+*.egg
